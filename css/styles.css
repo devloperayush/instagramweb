@@ -1,0 +1,212 @@
+.vv{
+  background-color:#F9F9F9;
+}
+
+.container
+{
+  height: 400px;
+  width: 300px;
+  padding-left: 45px;
+position: absolute;
+left:700px;
+top: 60px;
+background-color: #F9F5EB;
+}
+
+.bb{
+height:130px;
+width: 1500px;
+background-color:#1F4690;
+position: absolute;
+top:0px;
+left: 0px;
+}
+
+.qq{
+height: 300px;
+width: 600px;
+background-color: #F9F9F9;
+position: absolute;
+top:200px;
+left: 350px;
+}
+.ww{
+margin-left:110px;
+position: absolute;
+top: 165px;
+}
+.fb{
+ background-color:#0096FF;
+ margin-left:40px;
+ margin-right: 40px;
+}
+.up{
+width: 380px;
+height: 650px;
+margin-left:510px;
+background-color:#F9F5EB ;
+padding-left: 30px;
+}
+.ted{
+width: 90px;
+height: 30px;
+}
+
+
+
+.ont{
+  width: 90px;
+  height: 30px;
+margin-left:15px;
+}
+.rey{
+  width: 90px;
+  height: 30px;
+margin-left:15px;
+}
+.ail{
+height:350px;
+width:350px;
+margin-left: 800px;
+margin-top:85px;
+background-color:#F9F5EB ;
+position: absolute;
+top:100px;
+}
+
+
+.logo{
+  position: absolute;
+  top:235px;
+left: 590px;
+}
+.ing{
+width: 110px;
+position: absolute;
+left:700px;
+top:271px;
+}
+.par{
+position: absolute;
+left:665px;
+top: 256px;
+
+}
+.for{
+height: 70px;
+background-color: white;
+padding-left: 200px;
+padding-top: 20px;
+}
+.ign{
+height: 600px;
+width: 370px;
+margin-left: 480px;
+margin-top:60px;
+background-color: white;
+
+}
+
+.adj{
+  height: 500px;
+  width: 420px;
+margin-left:  480px;
+margin-top: 40px;
+background-color: white;
+}
+
+.line{
+width: 130px;
+position: absolute;
+left: 717px;
+top: 492px;
+}
+
+
+
+.ayush{
+margin-top: 30px;
+margin-bottom: 20px;
+margin-left: 45px;
+}
+
+.jj{
+word-spacing: 10px;
+margin-left: 520px;
+margin-top: 40px;
+font-size: 13px;
+}
+
+.ss{
+  margin-top: 80px;
+  word-spacing: 10px;
+  margin-left: 320px;
+  font-size: 13px;
+}
+
+.rr{
+  margin-left: 400px;
+position: absolute;
+top: 60px;
+}
+
+.def{
+  margin-top: 50px;
+
+}
+.mm{
+margin-left: 70px;
+position: absolute;
+bottom: 80px;
+text-decoration: none;
+font-weight: bold;
+}
+
+.hh{
+  margin-left: 82px;
+position: absolute;
+bottom: 25px;
+text-decoration: none;
+font-size: 14px;
+}
+
+.tt{
+height: 17px;
+width: 17px;
+position: absolute;
+bottom: 80px;
+margin-left: 40px;
+}
+
+.ll{
+  width: 100px; ;
+position: absolute;
+top: 225px;
+margin-left: 160px;
+margin-top:24px;
+}
+
+.oo{
+  margin-left: 130px;
+  position: absolute;
+  top: 225px;
+}
+
+.nn{
+margin-left:205px;
+position: absolute;
+top:476px;
+
+}
+.pqrs{
+  margin-left:480px;
+  background-color: white;
+  height: 50px;
+  width:240px;
+padding-left: 175px;
+padding-top: 20px;
+}
+
+.midcontainer{
+
+  }
